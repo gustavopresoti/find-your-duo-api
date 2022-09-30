@@ -3,7 +3,7 @@
       alt="NLW eSports" 
       title="NLW eSports" 
       height='120em' 
-      src="public/logo.svg" 
+      src="doc/logo.svg" 
     />
     <br />
     <br />
@@ -25,13 +25,6 @@
 
 <br>
 
-<p align="center">
-  <img src="public/doc/doc-landing.svg" width="100%">
-  <img src="public/doc/doc-modal.svg" width="100%">
-</p>
-
-<br>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -48,7 +41,7 @@ A API do Find Your Duo fornece os endpoints e recursos necessários que permitem
 
 <br>
 
-## Como executar?
+## ⚡ Como executar?
 
 Primeiro é preciso definir a URL de conexão com o banco de dados. Para isso, crie um novo arquivo **_.env_** na raíz do projeto definindo a variável de ambiente para a URL do banco (consulte o arquivo .**_env.example_** para a criação).
 
